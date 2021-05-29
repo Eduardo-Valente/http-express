@@ -1,2 +1,2 @@
 # http-express
-Pequeno sistema para realizar requisições HTTP e obter respostas.
+Pequeno sistema do curso de desenvolvimento web do Leonardo Moura Leitão para realizar requisições HTTP e obter respostas.
